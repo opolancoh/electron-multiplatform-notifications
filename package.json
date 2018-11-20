@@ -1,0 +1,28 @@
+{
+  "name": "electron-multiplatform-notifications",
+  "version": "1.0.0",
+  "description": "A simple electron application to test multiplatfotm notifications on Windows, MacOS, en Linux",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opolancoh/electron-multiplatform-notifications.git"
+  },
+  "keywords": [
+    "Electron",
+    "Desktop",
+    "Multiplatform",
+    "Notification"
+  ],
+  "author": "Oscar Polanco <opolancoh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opolancoh/electron-multiplatform-notifications/issues"
+  },
+  "homepage": "https://github.com/opolancoh/electron-multiplatform-notifications#readme",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
