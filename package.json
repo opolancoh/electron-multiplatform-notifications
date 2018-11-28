@@ -1,6 +1,6 @@
 {
   "name": "electron-multiplatform-notifications",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple electron application to test multiplatfotm notifications on Windows, MacOS, en Linux",
   "main": "main.js",
   "scripts": {
@@ -29,7 +29,7 @@
     "electron-builder": "^20.36.2"
   },
   "build": {
-    "appId": "com.ikobit.electron-notification",
+    "appId": "com.ikobit.desktop-notifications",
     "mac": {
       "category": "your.app.category.type"
     }

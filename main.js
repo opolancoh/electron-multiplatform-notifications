@@ -36,7 +36,7 @@ function createWindow() {
 app.on('ready', () => {
     createWindow();
     if (process.platform === 'win32') {      
-      app.setAppUserModelId("com.ikobit.electron-notification");
+      app.setAppUserModelId("com.ikobit.desktop-notifications");
       //app.setAppUserModelId(process.execPath);
     }
   });
