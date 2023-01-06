@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/opolancoh/electron-multiplatform-notifications#readme",
   "devDependencies": {
-    "electron": "^18.3.7",
-    "electron-builder": "^22.8.1"
+    "electron": "^22.0.0",
+    "electron-builder": "^23.6.0"
   },
   "build": {
     "appId": "com.ikobit.desktop-notifications",
